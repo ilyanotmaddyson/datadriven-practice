@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [This Year's Class](./practice/sql/this-year-s-class) | SQL | Easy | 2026-10-06 |
 | [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-10-06 |
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-10-06 |
 | [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-10-06 |
