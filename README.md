@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-10-05 |
 | [Months in Motion](./practice/sql/months-in-motion) | SQL | Medium | 2026-10-04 |
 | [High Price Products](./practice/sql/high-price-products) | SQL | Easy | 2026-10-04 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-10-04 |
