@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Search Terms Starting With G](./practice/sql/search-terms-starting-with-g) | SQL | Easy | 2026-10-06 |
 | [Log Levels](./practice/sql/log-levels) | SQL | Easy | 2026-10-06 |
 | [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-10-06 |
 | [This Year's Class](./practice/sql/this-year-s-class) | SQL | Easy | 2026-10-06 |
