@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-03 |
 | [Latest Metric Values](./practice/sql/latest-metric-values) | SQL | Easy | 2026-10-03 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-10-03 |
 | [Shared Endpoints](./practice/sql/shared-endpoints) | SQL | Medium | 2026-10-02 |
