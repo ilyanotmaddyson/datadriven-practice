@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-09-30 |
 | [Nodes in Target Regions](./practice/sql/nodes-in-target-regions) | SQL | Easy | 2026-09-30 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-09-30 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-09-30 |
