@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Census](./practice/sql/category-census) | SQL | Easy | 2026-10-05 |
 | [iOS Sessions by Device Type](./practice/sql/ios-sessions-by-device-type) | SQL | Medium | 2026-10-05 |
 | [Top Alert Resolvers](./practice/sql/top-alert-resolvers) | SQL | Medium | 2026-10-05 |
 | [Regions by Alert Volume](./practice/sql/regions-by-alert-volume) | SQL | Medium | 2026-10-05 |
