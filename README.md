@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-06 |
 | [Overloaded Infrastructure Nodes](./practice/sql/overloaded-infrastructure-nodes) | SQL | Medium | 2026-10-06 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-06 |
 | [Top Device by Sessions](./practice/sql/top-device-by-sessions) | SQL | Easy | 2026-10-06 |
