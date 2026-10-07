@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-02 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-10-02 |
 | [Timeout Warning Logs](./practice/sql/timeout-warning-logs) | SQL | Easy | 2026-10-02 |
 | [What the Shelf Never Sold](./practice/sql/what-the-shelf-never-sold) | SQL | Medium | 2026-10-02 |
