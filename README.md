@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-07 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-10-07 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-10-07 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-10-07 |
