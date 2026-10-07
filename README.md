@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-24 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-09-23 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-09-23 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-09-22 |
