@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Server With Most Errors](./practice/sql/server-with-most-errors) | SQL | Medium | 2026-10-06 |
 | [Successful Pipeline Runs](./practice/sql/successful-pipeline-runs) | SQL | Easy | 2026-10-06 |
 | [The Well-Defended Borders](./practice/sql/the-well-defended-borders) | SQL | Easy | 2026-10-06 |
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-06 |
