@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Lowest Average Price Category](./practice/sql/lowest-average-price-category) | SQL | Easy | 2026-09-30 |
 | [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-09-30 |
 | [Nodes in Target Regions](./practice/sql/nodes-in-target-regions) | SQL | Easy | 2026-09-30 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-09-30 |
