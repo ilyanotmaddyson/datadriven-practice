@@ -1,6 +1,6 @@
-# f_f's data engineering practice
+# ilyanotmaddyson's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Compute Cloud Cost](./practice/sql/total-compute-cloud-cost) | SQL | Easy | 2026-10-07 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-10-06 |
 | [Search Terms Starting With G](./practice/sql/search-terms-starting-with-g) | SQL | Easy | 2026-10-06 |
 | [Log Levels](./practice/sql/log-levels) | SQL | Easy | 2026-10-06 |
