@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-09-29 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-29 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-09-29 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-29 |
