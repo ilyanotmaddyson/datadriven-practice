@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-10-02 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-02 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-10-02 |
 | [Timeout Warning Logs](./practice/sql/timeout-warning-logs) | SQL | Easy | 2026-10-02 |
