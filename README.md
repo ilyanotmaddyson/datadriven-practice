@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-10-02 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-02 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-10-02 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-02 |
