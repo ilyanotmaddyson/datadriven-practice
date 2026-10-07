@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average GPU Node CPU Usage](./practice/sql/average-gpu-node-cpu-usage) | SQL | Easy | 2026-10-04 |
 | [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-10-04 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-04 |
 | [Platform Check](./practice/sql/platform-check) | SQL | Easy | 2026-10-04 |
