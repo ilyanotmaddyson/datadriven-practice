@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Server Activity](./practice/sql/last-server-activity) | SQL | Easy | 2026-10-04 |
 | [The Vital Signs](./practice/sql/the-vital-signs) | SQL | Easy | 2026-10-04 |
 | [Average GPU Node CPU Usage](./practice/sql/average-gpu-node-cpu-usage) | SQL | Easy | 2026-10-04 |
 | [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-10-04 |
