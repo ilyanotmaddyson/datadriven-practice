@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What the Shelf Never Sold](./practice/sql/what-the-shelf-never-sold) | SQL | Medium | 2026-10-02 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-10-02 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-02 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-10-02 |
