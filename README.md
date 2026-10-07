@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High Price Products](./practice/sql/high-price-products) | SQL | Easy | 2026-10-04 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-10-04 |
 | [Auth Endpoints](./practice/sql/auth-endpoints) | SQL | Easy | 2026-10-04 |
 | [Last Server Activity](./practice/sql/last-server-activity) | SQL | Easy | 2026-10-04 |
