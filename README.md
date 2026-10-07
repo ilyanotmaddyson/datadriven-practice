@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-10-06 |
 | [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-10-06 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-10-06 |
 | [The Vanishing Rows](./practice/sql/the-vanishing-rows) | SQL | Easy | 2026-10-06 |
