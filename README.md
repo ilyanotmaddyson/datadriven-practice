@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bargain Bin](./practice/sql/bargain-bin) | SQL | Easy | 2026-10-06 |
 | [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Medium | 2026-10-06 |
 | [Top 5 Slowest DNS Lookups](./practice/sql/top-5-slowest-dns-lookups) | SQL | Easy | 2026-10-06 |
 | [Server With Most Errors](./practice/sql/server-with-most-errors) | SQL | Medium | 2026-10-06 |
