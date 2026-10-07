@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-09-29 |
 | [Mobile Event Counts](./practice/sql/mobile-event-counts) | SQL | Easy | 2026-09-29 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-09-29 |
 | [Content Sorted by Duration](./practice/sql/content-sorted-by-duration) | SQL | Easy | 2026-09-29 |
