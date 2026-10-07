@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-09-18 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-09-17 |
 
 <!-- datadriven:index:end -->
