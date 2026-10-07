@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Vanishing Rows](./practice/sql/the-vanishing-rows) | SQL | Easy | 2026-10-06 |
 | [The Far Ends](./practice/sql/the-far-ends) | SQL | Easy | 2026-10-06 |
 | [No Gaps](./practice/sql/no-gaps) | SQL | Easy | 2026-10-06 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-06 |
