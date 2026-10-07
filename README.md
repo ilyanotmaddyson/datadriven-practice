@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Regions by Alert Volume](./practice/sql/regions-by-alert-volume) | SQL | Medium | 2026-10-05 |
 | [The Loudest in the Room](./practice/sql/the-loudest-in-the-room) | SQL | Medium | 2026-10-05 |
 | [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-10-05 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-05 |
