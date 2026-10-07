@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-09-21 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-09-21 |
 | [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-09-21 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-09-18 |
