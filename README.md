@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Latest Metric Values](./practice/sql/latest-metric-values) | SQL | Easy | 2026-10-03 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-10-03 |
 | [Shared Endpoints](./practice/sql/shared-endpoints) | SQL | Medium | 2026-10-02 |
 | [The Waiting Room](./practice/sql/the-waiting-room) | SQL | Easy | 2026-10-02 |
