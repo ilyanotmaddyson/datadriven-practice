@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Platform Check](./practice/sql/platform-check) | SQL | Easy | 2026-10-04 |
 | [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-10-04 |
 | [CPU Utilization Summary](./practice/sql/cpu-utilization-summary) | SQL | Easy | 2026-10-04 |
 | [Second Highest Cloud Cost](./practice/sql/second-highest-cloud-cost) | SQL | Medium | 2026-10-04 |
