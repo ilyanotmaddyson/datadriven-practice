@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-06 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-10-06 |
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-10-06 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-10-06 |
