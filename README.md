@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nodes in Target Regions](./practice/sql/nodes-in-target-regions) | SQL | Easy | 2026-09-30 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-09-30 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-09-30 |
 | [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-09-29 |
