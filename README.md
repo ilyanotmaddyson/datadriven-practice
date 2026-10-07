@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-10-07 |
 | [Clean Averages](./practice/sql/clean-averages) | SQL | Easy | 2026-10-07 |
 | [Busy Authors](./practice/sql/busy-authors) | SQL | Medium | 2026-10-07 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-10-07 |
