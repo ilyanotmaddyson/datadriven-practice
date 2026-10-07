@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clean Exit](./practice/sql/clean-exit) | SQL | Easy | 2026-10-02 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-10-02 |
 | [Top of the Bill](./practice/sql/top-of-the-bill) | SQL | Medium | 2026-10-01 |
 | [Lowest Average Price Category](./practice/sql/lowest-average-price-category) | SQL | Easy | 2026-09-30 |
