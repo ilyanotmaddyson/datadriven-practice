@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-05 |
 | [Platform Team Feature Flags](./practice/sql/platform-team-feature-flags) | SQL | Easy | 2026-10-05 |
 | [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-10-05 |
 | [Months in Motion](./practice/sql/months-in-motion) | SQL | Medium | 2026-10-04 |
