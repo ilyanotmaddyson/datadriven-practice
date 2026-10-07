@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-09-21 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-09-18 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-09-17 |
 
