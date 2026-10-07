@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/f_f), committed here as it
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-02 |
 | [Who Comes Early](./practice/sql/who-comes-early) | SQL | Easy | 2026-10-02 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-10-02 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-02 |
