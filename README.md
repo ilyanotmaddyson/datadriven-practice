@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-10-07 |
 | [Total Compute Cloud Cost](./practice/sql/total-compute-cloud-cost) | SQL | Easy | 2026-10-07 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-10-06 |
 | [Search Terms Starting With G](./practice/sql/search-terms-starting-with-g) | SQL | Easy | 2026-10-06 |
