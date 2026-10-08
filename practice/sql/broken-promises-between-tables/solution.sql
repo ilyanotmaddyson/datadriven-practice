@@ -1,5 +1,5 @@
 SELECT
-  COUNT(DISTINCT check_id) AS fail_count
+  COUNT(check_id) AS fail_count
 FROM dq_checks
 WHERE LOWER(rule) = 'not_null'
 AND passed = 0
