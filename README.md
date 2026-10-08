@@ -1,6 +1,6 @@
 # ilyanotmaddyson's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 

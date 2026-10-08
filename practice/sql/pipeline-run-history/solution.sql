@@ -4,4 +4,4 @@ SELECT
   MAX(start_at) AS last_run,
   COUNT(DISTINCT DATE_TRUNC('month', start_at)) AS active_months
 FROM data_pipes
-GROUP BY pipe_name
+GROUP BY pipe_name;
