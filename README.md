@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-08 |
 | [Daily Cross-Platform Users](./practice/sql/daily-cross-platform-users) | SQL | Easy | 2026-10-08 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-10-08 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-08 |
