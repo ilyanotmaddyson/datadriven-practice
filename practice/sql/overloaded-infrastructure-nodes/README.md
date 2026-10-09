@@ -2,7 +2,7 @@
 
 *CPU above 90. Memory above 80. Red alert.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/overloaded_infrastructure_nodes)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/overloaded_infrastructure_nodes)
 
 ## How it went
 
