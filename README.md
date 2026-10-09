@@ -103,7 +103,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-10-02 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-02 |
 | [Clean Exit](./practice/sql/clean-exit) | SQL | Easy | 2026-10-02 |
-| [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-10-02 |
+| [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Easy | 2026-10-02 |
 | [Top of the Bill](./practice/sql/top-of-the-bill) | SQL | Medium | 2026-10-01 |
 | [Lowest Average Price Category](./practice/sql/lowest-average-price-category) | SQL | Easy | 2026-09-30 |
 | [Top API Caller](./practice/sql/top-api-caller) | SQL | Easy | 2026-09-30 |
