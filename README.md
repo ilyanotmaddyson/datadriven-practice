@@ -42,7 +42,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-10-06 |
 | [Bargain Bin](./practice/sql/bargain-bin) | SQL | Easy | 2026-10-06 |
 | [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Medium | 2026-10-06 |
-| [Top 5 Slowest DNS Lookups](./practice/sql/top-5-slowest-dns-lookups) | SQL | Easy | 2026-10-06 |
+| [Top 5 Slowest DNS Lookups](./practice/sql/top-5-slowest-dns-lookups) | SQL | Medium | 2026-10-06 |
 | [Server With Most Errors](./practice/sql/server-with-most-errors) | SQL | Medium | 2026-10-06 |
 | [Successful Pipeline Runs](./practice/sql/successful-pipeline-runs) | SQL | Easy | 2026-10-06 |
 | [The Well-Defended Borders](./practice/sql/the-well-defended-borders) | SQL | Easy | 2026-10-06 |
