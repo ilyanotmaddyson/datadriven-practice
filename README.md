@@ -49,7 +49,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-06 |
 | [Overloaded Infrastructure Nodes](./practice/sql/overloaded-infrastructure-nodes) | SQL | Medium | 2026-10-06 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-06 |
-| [Top Device by Sessions](./practice/sql/top-device-by-sessions) | SQL | Easy | 2026-10-06 |
+| [Top Device by Sessions](./practice/sql/top-device-by-sessions) | SQL | Medium | 2026-10-06 |
 | [Did Anyone Actually Read It?](./practice/sql/did-anyone-actually-read-it) | SQL | Easy | 2026-10-06 |
 | [Heavy Namespaces](./practice/sql/heavy-namespaces) | SQL | Medium | 2026-10-05 |
 | [Tables With Many DQ Failures](./practice/sql/tables-with-many-dq-failures) | SQL | Medium | 2026-10-05 |
