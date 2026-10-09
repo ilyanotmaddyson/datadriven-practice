@@ -116,7 +116,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Content Sorted by Duration](./practice/sql/content-sorted-by-duration) | SQL | Easy | 2026-09-29 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-09-29 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-09-29 |
-| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-09-29 |
+| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Easy | 2026-09-29 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-29 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-09-29 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-29 |
