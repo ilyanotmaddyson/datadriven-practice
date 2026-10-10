@@ -83,7 +83,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-03 |
 | [Latest Metric Values](./practice/sql/latest-metric-values) | SQL | Easy | 2026-10-03 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-10-03 |
-| [Shared Endpoints](./practice/sql/shared-endpoints) | SQL | Medium | 2026-10-02 |
+| [Shared Endpoints](./practice/sql/shared-endpoints) | SQL | Easy | 2026-10-02 |
 | [The Waiting Room](./practice/sql/the-waiting-room) | SQL | Easy | 2026-10-02 |
 | [Whale Watch](./practice/sql/whale-watch) | SQL | Easy | 2026-10-02 |
 | [Peak Satisfaction](./practice/sql/peak-satisfaction) | SQL | Easy | 2026-10-02 |

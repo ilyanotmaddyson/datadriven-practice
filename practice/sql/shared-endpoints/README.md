@@ -2,7 +2,7 @@
 
 *Shared credentials across endpoints.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/shared_endpoints)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/shared_endpoints)
 
 ## How it went
 
