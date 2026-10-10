@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Peak Metric Per Department](./practice/sql/peak-metric-per-department) | SQL | Easy | 2026-10-10 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-10-09 |
 | [Broken Promises Between Tables](./practice/sql/broken-promises-between-tables) | SQL | Medium | 2026-10-08 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-08 |
