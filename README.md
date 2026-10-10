@@ -132,7 +132,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-09-21 |
 | [Successful Production Deploys](./practice/sql/successful-production-deploys) | SQL | Easy | 2026-09-21 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-09-21 |
-| [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-09-21 |
+| [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Easy | 2026-09-21 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-09-21 |
 | [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-09-21 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-09-18 |
