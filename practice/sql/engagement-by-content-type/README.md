@@ -2,7 +2,7 @@
 
 *Some content types get all the attention.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/engagement_by_content_type)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/engagement_by_content_type)
 
 ## How it went
 
