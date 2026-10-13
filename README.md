@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Errors With Service Health](./practice/sql/errors-with-service-health) | SQL | Easy | 2026-10-13 |
 | [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-10-12 |
 | [After the Cutoff](./practice/sql/after-the-cutoff) | SQL | Easy | 2026-10-11 |
 | [Content by Specific Users](./practice/sql/content-by-specific-users) | SQL | Easy | 2026-10-11 |
