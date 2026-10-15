@@ -39,7 +39,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-10-06 |
 | [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-10-06 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-10-06 |
-| [The Vanishing Rows](./practice/sql/the-vanishing-rows) | SQL | Easy | 2026-10-06 |
+| [The Vanishing Rows](./practice/sql/the-vanishing-rows) | SQL | Medium | 2026-10-06 |
 | [The Far Ends](./practice/sql/the-far-ends) | SQL | Easy | 2026-10-06 |
 | [No Gaps](./practice/sql/no-gaps) | SQL | Easy | 2026-10-06 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-06 |
