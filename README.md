@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Health Checks per Service](./practice/sql/health-checks-per-service) | SQL | Easy | 2026-10-16 |
 | [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-10-16 |
 | [Clicked Ad Impressions](./practice/sql/clicked-ad-impressions) | SQL | Easy | 2026-10-16 |
 | [Highest Cost Per Team](./practice/sql/highest-cost-per-team) | SQL | Easy | 2026-10-15 |
