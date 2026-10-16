@@ -1,0 +1,3 @@
+SELECT *
+FROM users
+WHERE signup_date BETWEEN '2025-02-01' AND '2025-02-28'

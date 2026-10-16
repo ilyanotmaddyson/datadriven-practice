@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The February Cohort](./practice/sql/the-february-cohort) | SQL | Easy | 2026-10-16 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-16 |
 | [Retargeting Campaign Impressions](./practice/sql/retargeting-campaign-impressions) | SQL | Easy | 2026-10-16 |
 | [Health Checks per Service](./practice/sql/health-checks-per-service) | SQL | Easy | 2026-10-16 |
