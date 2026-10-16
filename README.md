@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clicked Ad Impressions](./practice/sql/clicked-ad-impressions) | SQL | Easy | 2026-10-16 |
 | [Highest Cost Per Team](./practice/sql/highest-cost-per-team) | SQL | Easy | 2026-10-15 |
 | [Errors With Service Health](./practice/sql/errors-with-service-health) | SQL | Easy | 2026-10-13 |
 | [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-10-12 |
