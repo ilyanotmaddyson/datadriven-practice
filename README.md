@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Heavy Hitters](./practice/sql/heavy-hitters) | SQL | Medium | 2026-10-22 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-10-20 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-10-20 |
 | [The Heaviest Hitters](./practice/sql/the-heaviest-hitters) | SQL | Easy | 2026-10-16 |
