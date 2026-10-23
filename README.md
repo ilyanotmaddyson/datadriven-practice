@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-10-23 |
 | [Peak Hour Power Callers](./practice/sql/peak-hour-power-callers) | SQL | Medium | 2026-10-23 |
 | [Views by Specific Users](./practice/sql/views-by-specific-users) | SQL | Easy | 2026-10-23 |
 | [Tables With Most DQ Failures](./practice/sql/tables-with-most-dq-failures) | SQL | Medium | 2026-10-23 |
