@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-10-23 |
 | [Slow Production Deploys](./practice/sql/slow-production-deploys) | SQL | Easy | 2026-10-23 |
 | [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-10-23 |
 | [Find Deploy Authors](./practice/sql/find-deploy-authors) | SQL | Easy | 2026-10-22 |
