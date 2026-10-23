@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-10-23 |
 | [Find Deploy Authors](./practice/sql/find-deploy-authors) | SQL | Easy | 2026-10-22 |
 | [Heavy Hitters](./practice/sql/heavy-hitters) | SQL | Medium | 2026-10-22 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-10-20 |
