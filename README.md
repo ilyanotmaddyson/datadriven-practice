@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The One That Flew](./practice/sql/the-one-that-flew) | SQL | Medium | 2026-10-23 |
 | [Latency Variance and Std Dev](./practice/sql/latency-variance-and-std-dev) | SQL | Hard | 2026-10-23 |
 | [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-10-23 |
 | [Slow Production Deploys](./practice/sql/slow-production-deploys) | SQL | Easy | 2026-10-23 |
