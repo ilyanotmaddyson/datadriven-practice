@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Specific Users](./practice/sql/views-by-specific-users) | SQL | Easy | 2026-10-23 |
 | [Tables With Most DQ Failures](./practice/sql/tables-with-most-dq-failures) | SQL | Medium | 2026-10-23 |
 | [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-10-23 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-10-23 |
