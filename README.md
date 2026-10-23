@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Latency Variance and Std Dev](./practice/sql/latency-variance-and-std-dev) | SQL | Hard | 2026-10-23 |
 | [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-10-23 |
 | [Slow Production Deploys](./practice/sql/slow-production-deploys) | SQL | Easy | 2026-10-23 |
 | [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-10-23 |
