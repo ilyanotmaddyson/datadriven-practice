@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-10-23 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-10-23 |
 | [The One That Flew](./practice/sql/the-one-that-flew) | SQL | Medium | 2026-10-23 |
 | [Latency Variance and Std Dev](./practice/sql/latency-variance-and-std-dev) | SQL | Hard | 2026-10-23 |
