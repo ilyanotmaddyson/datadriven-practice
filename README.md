@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Higher Performing Variant](./practice/sql/higher-performing-variant) | SQL | Easy | 2026-10-23 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-23 |
 | [The Merit Circle](./practice/sql/the-merit-circle) | SQL | Medium | 2026-10-23 |
 | [Character Position in Endpoint](./practice/sql/character-position-in-endpoint) | SQL | Easy | 2026-10-23 |
