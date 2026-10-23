@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top of the Line](./practice/sql/top-of-the-line) | SQL | Easy | 2026-10-23 |
 | [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-10-23 |
 | [Higher Performing Variant](./practice/sql/higher-performing-variant) | SQL | Easy | 2026-10-23 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-23 |
