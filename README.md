@@ -127,7 +127,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-02 |
 | [Who Comes Early](./practice/sql/who-comes-early) | SQL | Easy | 2026-10-02 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-10-02 |
-| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Medium | 2026-10-02 |
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-02 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-10-02 |
 | [Timeout Warning Logs](./practice/sql/timeout-warning-logs) | SQL | Easy | 2026-10-02 |
 | [What the Shelf Never Sold](./practice/sql/what-the-shelf-never-sold) | SQL | Medium | 2026-10-02 |
