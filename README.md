@@ -156,7 +156,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-09-29 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-29 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-09-29 |
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-29 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-09-29 |
 | [Products Without Sales](./practice/sql/products-without-sales) | SQL | Easy | 2026-09-25 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-24 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-09-23 |
