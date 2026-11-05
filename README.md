@@ -137,7 +137,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ilyanotmaddyson), committe
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-10-02 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-10-02 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-02 |
-| [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-10-02 |
+| [The Tag Order](./practice/sql/the-tag-order) | SQL | Medium | 2026-10-02 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-02 |
 | [Clean Exit](./practice/sql/clean-exit) | SQL | Easy | 2026-10-02 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-10-02 |
